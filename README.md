@@ -1,2 +1,2 @@
 # SQL-Proficiency-Display
-Hello, here is an SQL file that shows what I can do and the SQL commands I can work with. These commands were done based off data from a film rental database. I have also attached the database file in this repository.
+Hello, here is an SQL file I have created to shows what I can do in SQL and the commands I can work with. This mini project was based off data from a film rental database. I have also attached the database file in this repository.
